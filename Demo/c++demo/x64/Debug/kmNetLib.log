@@ -1,0 +1,8 @@
+﻿  kmboxNet.cpp
+C:\Users\hw\Desktop\Net发布包20230925\Net发布包20230925\c++版本demo\NetConfig\HidTable.h(119,1): warning C4005: “KEY_EXECUTE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(22905,1): message : 参见“KEY_EXECUTE”的前一个定义
+  calldemo.cpp
+C:\Users\hw\Desktop\Net发布包20230925\Net发布包20230925\c++版本demo\NetConfig\HidTable.h(119,1): warning C4005: “KEY_EXECUTE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(22905,1): message : 参见“KEY_EXECUTE”的前一个定义
+  正在生成代码...
+  kmNetLib.vcxproj -> C:\Users\hw\Desktop\Net发布包20230925\Net发布包20230925\c++版本demo\x64\Debug\kmNetLib.exe
