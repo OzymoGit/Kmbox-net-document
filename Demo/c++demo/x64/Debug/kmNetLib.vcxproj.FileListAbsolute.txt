@@ -1,4 +1,0 @@
-\\192.168.2.185\home\esp32\kmboxnet\x64\Debug\kmNetLib.exe
-E:\opencv\kmboxnet\x64\Debug\kmNetLib.exe
-C:\Users\hw\Desktop\Net发布包20230912 - 副本\Net发布包20230912\c++版本demo\x64\Debug\kmNetLib.exe
-C:\Users\hw\Desktop\Net发布包20230925\Net发布包20230925\c++版本demo\x64\Debug\kmNetLib.exe
